@@ -8,7 +8,7 @@
       <link href="/post/bae4ff13.html"/>
       <url>/post/bae4ff13.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h2 id="安装Redis"><a href="#安装Redis" class="headerlink" title="安装Redis"></a>安装Redis</h2><p><code>docker run --restart=always -p 6379:6379 --name redis_study -d redis --requirepass your_password</code></p><ul><li>–restart&#x3D;always 参数表示在容器崩溃时，Docker 会自动重启该容器</li><li>-p 6379:6379 参数表示将容器的 6379 端口映射到宿主机的 6379 端口</li><li>–name myredis 参数为容器指定一个名称，便于识别</li><li>-d 参数表示以分离模式运行容器</li><li>–requirepass root 参数表示设置 Redis 密码。</li></ul><p><code>docker exec -it [容器名 | 容器ID] bash</code> # 以交互的方式进入容器内部</p>]]></content>
       
       
       <categories>
