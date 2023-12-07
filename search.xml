@@ -164,9 +164,9 @@
       
         <tags>
             
-            <tag> 后端 </tag>
-            
             <tag> Linux </tag>
+            
+            <tag> 后端 </tag>
             
         </tags>
       
@@ -390,13 +390,13 @@
       
         <tags>
             
-            <tag> Go </tag>
-            
             <tag> Goland </tag>
             
-            <tag> 消息队列 </tag>
+            <tag> Go </tag>
             
             <tag> 后端 </tag>
+            
+            <tag> 消息队列 </tag>
             
         </tags>
       
