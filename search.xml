@@ -32,12 +32,16 @@
       
       <categories>
           
-          <category> 后端 </category>
+          <category> 数据库 </category>
+          
+          <category> Redis </category>
           
       </categories>
       
       
         <tags>
+            
+            <tag> 面试 </tag>
             
             <tag> Redis </tag>
             
@@ -153,18 +157,16 @@
       
       <categories>
           
-          <category> 后端开发 </category>
-          
-          <category> Linux </category>
+          <category> 后端 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> Linux </tag>
+            <tag> 后端 </tag>
             
-            <tag> 后端开发 </tag>
+            <tag> Linux </tag>
             
         </tags>
       
@@ -207,7 +209,9 @@
       
       <categories>
           
-          <category> 面试 </category>
+          <category> 数据库 </category>
+          
+          <category> MySQL </category>
           
       </categories>
       
